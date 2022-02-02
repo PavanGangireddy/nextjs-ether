@@ -1,0 +1,3 @@
+- After Wallet connection is success
+  - get MarketPlaceContract, CollectionStore contracts from all networks
+  - Prepare and push all Authorisation objects for marketPlace contract, collectionstore. use this before buyNFT, sellNFT, bidNFT

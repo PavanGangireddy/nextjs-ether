@@ -1,0 +1,22 @@
+- index.tsx
+
+  - TranslationProvider
+  - WalletProvider
+  - ToastProvider
+  - GetContracts using ContractService
+
+- All Route Container Components
+- /sign
+- /home
+  - Parameters
+    - AssetType
+      - Item
+      - NFT
+- /ItemDetails Page
+- /nftDetails Page
+- /buy item
+- /buy nft
+- /sell nft
+- /bid nft
+- /transfer nft
+- /mint nft

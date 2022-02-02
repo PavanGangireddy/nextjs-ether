@@ -1,0 +1,12 @@
+
+- All services
+  - BidService
+  - ContractService
+  - NFTService
+  - OrderService
+  - AccountService
+  - SalesService
+  - Collection
+  - Think about how the graph is exposing all these urls using nftServer package
+  - Assume only one vendor is there
+  - Note: BuyItem does not have a service it directly does sendTransaction to CollectionStore

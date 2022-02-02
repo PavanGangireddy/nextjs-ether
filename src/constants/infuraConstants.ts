@@ -1,0 +1,2 @@
+export const infuraMainnetAPIEndpoint = "https://mainnet.infura.io/v3/af0ccc1b0b77474abbb37f1255ba648b"
+export const infuraRobstenTestNetAPIEndpoint = "https://ropsten.infura.io/v3/af0ccc1b0b77474abbb37f1255ba648b"

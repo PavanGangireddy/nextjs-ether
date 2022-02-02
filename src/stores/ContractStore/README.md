@@ -1,0 +1,3 @@
+- Build Contracts based on Address for all Collections
+- Maintain all contracts here as a js variable
+  - When a contract name, network is available each contract returns address
